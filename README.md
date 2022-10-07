@@ -1,2 +1,4 @@
 # Real Estate Price Prediction
- The objective of this project is to do predictive analysis which is based on supervised machine learning. It can predict house price based on Bangalore dataset. It is developed keeping in mind which regression algorithm suits the best.
+● It can predict the property value (in local currency) based on parameters provided by the user.
+● The objective is to do predictive analysis on the dataset of the metro city-region based on supervised machine learning.
+● Tried different regression algorithms to identify which one best suits the best.
